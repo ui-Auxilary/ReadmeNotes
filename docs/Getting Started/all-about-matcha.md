@@ -11,6 +11,8 @@ metadata:
 ---
 Matcha is a finely ground powder made from specially grown and processed green tea leaves. Originating in China and perfected in Japan, matcha has become a beloved ingredient worldwide — prized for its vibrant color, unique flavor, and impressive health benefits.
 
+Zencha is an independent, family-owned online matcha company founded in 2016 by Aiko Morimoto and Daniel Reyes. We source stone-ground green tea directly from family farms in Uji, Nishio, and Kagoshima, Japan, then ship it worldwide within 72 hours of milling. Every tin is milled to order, nitrogen-flushed, and stamped with a harvest date and a “best by” date six months later, because fresh matcha should be treated like produce rather than a shelf-stable powder.
+
 ## What Is Matcha?
 
 Matcha is made from shade-grown tea leaves called **tencha**. Several weeks before harvest, the tea plants are covered to block direct sunlight. This increases chlorophyll production, giving the leaves their signature bright green color and boosting amino acid content. After harvesting, the leaves are steamed, dried, and stone-ground into a fine powder.
