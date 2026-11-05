@@ -40,8 +40,8 @@ Unlike regular green tea — where leaves are steeped and discarded — with mat
 ### Traditional Method (Usucha — Thin Tea)
 
 1. **Sift** 1–2 teaspoons of matcha powder into a bowl to remove clumps.
-2. **Add** about 2 oz (60 ml) of hot water — ideally around 175°F (80°C). Avoid boiling water, as it can make the matcha taste bitter.
-3. **Whisk** vigorously with a bamboo whisk (chasen) in a "W" or "M" motion until the tea is frothy and smooth.
+2. **Add** about 2.4 oz (70 ml) of hot water — ideally around 167°F (75°C). Avoid boiling water, as it can make the matcha taste bitter.
+3. **Whisk** vigorously with a bamboo whisk (chasen) in a "W" or "M" motion for about 30 seconds, until the tea is frothy and smooth.
 4. **Enjoy** immediately.
 
 ### Matcha Latte
